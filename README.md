@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Changmin 👋
 
-<!--
-**dbckdals06/dbckdals06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+컴퓨터공학 전공 · 영어 통번역 복수전공  
+코드, 운동, 기계, 어떻게 작동하는지 궁금한 건 직접 뜯어봅니다.
 
-Here are some ideas to get you started:
+- 🏫 컴퓨터공학부 학생회 집행부장
+- 🏋️ 웨이트 3년 · 생활스포츠지도사 2급 준비 중
+- 🚗 운동과학 & 자동차 정비 진로 탐색 중
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+🌐 [Portfolio](https://dbckdals06.github.io)
